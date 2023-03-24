@@ -1,0 +1,29 @@
+7
+12
+One Piece
+16.0
+Eiichiro Oda
+5
+Detective Conan
+10.0
+Gosho Aoyama
+7
+Attack on Titan
+5.0
+Hajime Isayama
+4
+Dr. Stone
+2.0
+Riichiro Inagaki
+35
+Black Clover
+9.99
+Yuki Tabata
+8
+Dr.Stone
+5.0
+papapap
+22
+Java Tutorial
+15.0
+James
